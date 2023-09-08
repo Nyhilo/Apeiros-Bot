@@ -14,7 +14,7 @@ The Infinite Nomic discord server is a community where we play this silly rules 
 
 The [initial ruleset](https://infinite.nomic.space/wiki/index.php?title=Cycle_12/Ruleset&oldid=2904) took the form of a set of index cards with rules written out on them with colored ink and precise language, and described the very bare bones of a game of nomic - which would allow players to develop the rules of the game over time. Soon, the evolution of the game led its players to forming a tiled map of drawn locations, wildlife with elemental attributes, and lots of lore. The center of this tiled map was a town called [Apeiros](https://en.wiktionary.org/wiki/apeiro-).
 
-![The wiktionary definition of Apeiros](image.png)
+![The wiktionary definition of Apeiros](imgs/apeiros.png)
 
 The game ended perhaps prematurely. As many of Infinite Nomic's cycles do, its players lacked the time and energy to keep up with the ruleset's increasing complexity. But we *liked* this game, so we wanted to go out with a bang. A rule was added that dictated the end of the game as being some vaguely apocalyptic event. In order to "win" the game, a player would bond with one of the creatures of the world, journey across the map to a particular location, and ascend with them to... [whatever came next](https://infinite.nomic.space/wiki/index.php?title=Cycle_13). Each player that did so wrote messages of various lengths to convey the feeling of their own journey. The result of this was profoundly emotional! And many of us hold Handwriting Nomic dear for the feelings it left behind. I've included a number of screenshots of these messages in `/concept documents/farewells`, for posterity.
 
